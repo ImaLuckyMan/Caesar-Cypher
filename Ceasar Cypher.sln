@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ceasar Cypher", "Ceasar Cypher.csproj", "{B5D43C14-863C-4755-8DE8-3670A200BB4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ceasar Cypher.Test", "..\Ceasar Cypher.Test\Ceasar Cypher.Test.csproj", "{2CEACA0E-5A34-433D-AC44-1253BD4216A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5D43C14-863C-4755-8DE8-3670A200BB4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5D43C14-863C-4755-8DE8-3670A200BB4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5D43C14-863C-4755-8DE8-3670A200BB4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5D43C14-863C-4755-8DE8-3670A200BB4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CEACA0E-5A34-433D-AC44-1253BD4216A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CEACA0E-5A34-433D-AC44-1253BD4216A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CEACA0E-5A34-433D-AC44-1253BD4216A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CEACA0E-5A34-433D-AC44-1253BD4216A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E91F7A3-2AC0-4136-9A0F-4B633EAD4A56}
+	EndGlobalSection
+EndGlobal
